@@ -32,18 +32,32 @@ Team Player  | Collaborative
 My data science journey has been marked by progressive learning and practical application. From foundational statistical modeling to complex deep learning architectures, I've honed my skills through a variety of projects. My experience encompasses building interactive data visualizations, implementing machine learning algorithms, and delving into advanced fields like computer vision and natural language processing.
 ## Machine Learning Projects
 1. Loan Application Predictor
-   Objective: Develop a predictive model to identify loan defaulters and improve loan approval efficiency.
+   * Objective: Develop a predictive model to identify loan defaulters and improve loan approval efficiency.
+   * Link: https://github.com/imnotvaibhav/Loan-Application-Predictor
    Link: 
-3. Credit Card Fraud Detection: 
-4. EDA on Covid 19 data
+2. Credit Card Fraud Detection:
+   * Objective: To develop and compare machine learning models for accurate credit card fraud detection using imbalanced dataset, optimizing model parameters, and evaluating performance metrics.
+   * Link: https://github.com/imnotvaibhav/Creadit_Fraud_Detection
 
 ## Computer Vision Projects
 1. Object detection for vehicle licence plate with OCR
-2. Emotion Detection
+   * Objective: To develop a YOLOv8-based license plate detection and recognition system using Belgian car image dataset for real-time application.
+   * Link: https://github.com/imnotvaibhav/YOLOv8-License-plate-reader
+3. Emotion Detection:
+   * Objective: To create an app that dectects the human face and the emotions using neural networks.
+   * Link: https://github.com/imnotvaibhav/Emotion-Detection
 
 ## Natural Language Processing Project
 1. Fine Tuning LLM with Peft, QLora
-2. Speech Emotion Recognition
-3. Sentiment Analysis with Bert
-4. Image Caption Generation
+   * Objective: Fine tune LLM on custom  dataset for specific purpose of question answering
+   * Link: https://github.com/imnotvaibhav/Fine_Tuning_LLM
+3. Speech Emotion Recognition
+   * Objective: Extract the features in audio and develop an app to detect emotion from the voice.
+   * Link: https://github.com/imnotvaibhav/Speech_Emotion_Recognition
+6. Sentiment Analysis with Bert
+   * Objective: To analyse the sentiments of customers from the comments on an online platform.
+   * Link: https://github.com/imnotvaibhav/senetiment-analysis-with-BERT
+8. Image Caption Generation (coming up)
+   * Objective
+   * Link:
 
