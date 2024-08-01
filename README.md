@@ -27,3 +27,21 @@ Initial Years: Seeking to master data science skills, achieve continuous learnin
 Future Aspiration: Aspiring to secure a Data Science Management position, leveraging my technical expertise and leadership skills.
 # Soft Skills :
 Team Player  | Collaborative 
+
+# Projects
+My data science journey has been marked by progressive learning and practical application. From foundational statistical modeling to complex deep learning architectures, I've honed my skills through a variety of projects. My experience encompasses building interactive data visualizations, implementing machine learning algorithms, and delving into advanced fields like computer vision and natural language processing.
+## Machine Learning Projects
+1. Loan Application Predictor
+2. Credit Card Fraud Detection
+3. EDA on Covid 19 data
+
+## Computer Vision Projects
+1. Object detection for vehicle licence plate with OCR
+2. Emotion Detection
+
+## Natural Language Processing Project
+1. Fine Tuning LLM with Peft, QLora
+2. Speech Emotion Recognition
+3. Sentiment Analysis with Bert
+4. Image Caption Generation
+
