@@ -32,8 +32,10 @@ Team Player  | Collaborative
 My data science journey has been marked by progressive learning and practical application. From foundational statistical modeling to complex deep learning architectures, I've honed my skills through a variety of projects. My experience encompasses building interactive data visualizations, implementing machine learning algorithms, and delving into advanced fields like computer vision and natural language processing.
 ## Machine Learning Projects
 1. Loan Application Predictor
-2. Credit Card Fraud Detection
-3. EDA on Covid 19 data
+   Objective: Develop a predictive model to identify loan defaulters and improve loan approval efficiency.
+   Link: 
+3. Credit Card Fraud Detection: 
+4. EDA on Covid 19 data
 
 ## Computer Vision Projects
 1. Object detection for vehicle licence plate with OCR
