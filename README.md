@@ -1,4 +1,5 @@
 # Professional Profile
+Resume: https://github.com/imnotvaibhav/Resume
 
 # Name: Vaibhav Semwal
 * Aspiring Data Scientist | M.Sc. Phyiscs
