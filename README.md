@@ -1,8 +1,7 @@
 # Professional Profile
-Resume: https://github.com/imnotvaibhav/Resume
 
 # Name: Vaibhav Semwal
-* Aspiring Data Scientist | M.Sc. Phyiscs
+* Software - AI/ML/Vision | M.Sc. Phyiscs
 * Email: vaibhavsemwal15@gmail.com | LinkedIn Profile: www.linkedin.com/in/vaibhav-semwal-4353a5169
 
 # Education:
